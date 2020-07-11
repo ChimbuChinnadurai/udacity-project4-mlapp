@@ -1,4 +1,4 @@
-!https://circleci.com/gh/ChimbuChinnadurai/udacity-project4-mlapp.svg?!:style=social&logo=appveyor
+<img alt="CircleCI" src="https://img.shields.io/circleci/build/gh/ChimbuChinnadurai/udacity-project4-mlapp?style=for-the-badge">
 
 ## Project Overview
 
