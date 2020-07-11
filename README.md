@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+https://circleci.com/gh/ChimbuChinnadurai/udacity-project4-mlapp.svg??style=social&logo=appveyor
 
 ## Project Overview
 
